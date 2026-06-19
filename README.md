@@ -92,32 +92,6 @@ Turning Data into Intelligent Solutions ⚡
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
----
 
-# 📜 Certifications
-
-🏆 Introduction to Internet of Things (NPTEL)
-
-🏆 Full Stack Application Development (IBM via edX)
-
-🏆 Data Science with Python (Udemy)
-
-
----
-
-# 📊 GitHub Stats
-
-```python
-while(code_quality < perfect_code):
-    learn()
-    practice()
-    improve()
-
-# - Praveen Kumar Pallala
-```
-
----
-
-<h3 align="center">⭐ Turning Data into Intelligent Solutions ⭐</h3>
 
 <h3 align="center">Thanks for Visiting My Profile ❤️</h3>
